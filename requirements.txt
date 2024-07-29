@@ -1,0 +1,5 @@
+torch
+os
+pandas
+Flask
+flask_cors
